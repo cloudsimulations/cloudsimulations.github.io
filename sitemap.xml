@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cloudsimulations.com/author/juergen-hackl/</loc>
+    <loc>https://cloudsimulations.com/blog/</loc>
     <lastmod>2019-11-28T08:12:27+01:00</lastmod>
   </url>
   
@@ -13,8 +13,12 @@
   </url>
   
   <url>
-    <loc>https://cloudsimulations.com/author/juergen-hackl/estimating-network-related-risks/</loc>
+    <loc>https://cloudsimulations.com/blog/estimating-network-related-risks/</loc>
     <lastmod>2019-11-28T08:12:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloudsimulations.com/author/juergen-hackl/</loc>
   </url>
   
   <url>
