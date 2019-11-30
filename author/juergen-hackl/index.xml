@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloud simulations</title>
+    <link>https://cloudsimulations.com/author/juergen-hackl/</link>
+    <description>Recent content on cloud simulations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Nov 2019 08:12:27 +0100</lastBuildDate>
+    
+	<atom:link href="https://cloudsimulations.com/author/juergen-hackl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estimating network related risks</title>
+      <link>https://cloudsimulations.com/author/juergen-hackl/estimating-network-related-risks/</link>
+      <pubDate>Thu, 28 Nov 2019 08:12:27 +0100</pubDate>
+      
+      <guid>https://cloudsimulations.com/author/juergen-hackl/estimating-network-related-risks/</guid>
+      <description>Networks such as transportation, water, and power are critical lifelines for society.</description>
+    </item>
+    
+  </channel>
+</rss>
