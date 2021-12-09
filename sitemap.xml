@@ -2,29 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://cloudsimulations.com/blog/</loc>
     <lastmod>2019-11-28T08:12:27+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://cloudsimulations.com/</loc>
     <lastmod>2019-11-28T08:12:27+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/tset/</loc>
+    <loc>https://cloudsimulations.com/blog/estimating-network-related-risks/</loc>
     <lastmod>2019-11-28T08:12:27+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/author/jamica-jock/</loc>
+    <loc>https://cloudsimulations.com/author/juergen-hackl/</loc>
   </url><url>
-    <loc>http://example.org/author/john-doe/</loc>
+    <loc>https://cloudsimulations.com/author/</loc>
   </url><url>
-    <loc>http://example.org/author/juergen-hackl/</loc>
+    <loc>https://cloudsimulations.com/cloud-simulations/</loc>
   </url><url>
-    <loc>http://example.org/author/somrat/</loc>
+    <loc>https://cloudsimulations.com/j%C3%BCrgen-hackl/</loc>
   </url><url>
-    <loc>http://example.org/author/</loc>
-  </url><url>
-    <loc>http://example.org/cloud-simulations/</loc>
-  </url><url>
-    <loc>http://example.org/j%C3%BCrgen-hackl/</loc>
-  </url><url>
-    <loc>http://example.org/science/</loc>
+    <loc>https://cloudsimulations.com/science/</loc>
   </url>
 </urlset>
