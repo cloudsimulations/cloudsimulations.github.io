@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cloud Simulations</title>
-    <link>https://cloudsimulations.com/</link>
-    <description>Recent content on Cloud Simulations</description>
+    <title>cloud simulations</title>
+    <link>http://example.org/</link>
+    <description>Recent content on cloud simulations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2019 08:12:27 +0100</lastBuildDate>
-    
-	<atom:link href="https://cloudsimulations.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 28 Nov 2019 08:12:27 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estimating network related risks</title>
-      <link>https://cloudsimulations.com/blog/estimating-network-related-risks/</link>
+      <link>http://example.org/blog/tset/</link>
       <pubDate>Thu, 28 Nov 2019 08:12:27 +0100</pubDate>
       
-      <guid>https://cloudsimulations.com/blog/estimating-network-related-risks/</guid>
+      <guid>http://example.org/blog/tset/</guid>
       <description>Networks such as transportation, water, and power are critical lifelines for society.</description>
     </item>
     

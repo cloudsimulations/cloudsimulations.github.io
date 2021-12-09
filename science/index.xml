@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Science on Cloud Simulations</title>
-    <link>https://cloudsimulations.com/science/</link>
-    <description>Recent content in Science on Cloud Simulations</description>
+    <title>Science on cloud simulations</title>
+    <link>http://example.org/science/</link>
+    <description>Recent content in Science on cloud simulations</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://cloudsimulations.com/science/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="http://example.org/science/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
